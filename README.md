@@ -15,7 +15,7 @@
 
 
 - 🎓 SDE 2 at PayPal | Conversational AI Platform
-- 🔭 I’m currently working with Samsung Neural Accelaration Team that works on optimization and inferencing of DNN models on mobile devices
+- 🔭 I’m currently working with PayPal in Conversation AI Platform .Previously I have worked in Samsung Neural Accelaration Team that works on optimization and inferencing of DNN models on mobile devices
 - 💬 Discuss with me about anything related to latest Tech
 - ⚡  Loves Programming 
 - 📫 How to reach me: [Mail](mailto:cse.ykr@gmail.com), [DM on Linkedin](https://www.linkedin.com/in/yokeshrana/)
