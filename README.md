@@ -14,7 +14,7 @@
 <br>
 
 
-- 🎓 Senior Engineer at Samsung R & D Bangalore
+- 🎓 SDE 2 at PayPal | Conversational AI Platform
 - 🔭 I’m currently working with Samsung Neural Accelaration Team that works on optimization and inferencing of DNN models on mobile devices
 - 💬 Discuss with me about anything related to latest Tech
 - ⚡  Loves Programming 
