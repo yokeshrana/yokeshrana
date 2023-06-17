@@ -14,7 +14,7 @@
 <br>
 
 
-- 🎓 SDE 2 at PayPal | Conversational AI Platform
+- 🎓 SDE 3 at PayPal | Conversational AI Platform
 - 🔭 I’m currently working with PayPal in Conversation AI Platform .Previously I have worked in Samsung Neural Accelaration Team .
 - 💬 Discuss with me about anything related to latest Tech
 - ⚡  Loves Programming 
