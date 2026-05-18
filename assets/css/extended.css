@@ -1,0 +1,12 @@
+:root {
+    --code-block-bg: #1e1e1e;
+}
+
+code {
+    font-family: "JetBrains Mono", "Fira Code", monospace;
+}
+
+h1, h2, h3 {
+    font-family: "Inter", -apple-system, sans-serif;
+    letter-spacing: -0.02em;
+}

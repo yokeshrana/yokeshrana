@@ -1,0 +1,53 @@
+baseURL = 'https://yokeshrana.github.io/'
+locale = 'en-us'
+title = 'Yokesh Rana - Senior Software Engineer | ML & AI'
+theme = 'PaperMod'
+
+# Strictly single-page: disable extra page generation
+disableKinds = ['taxonomy', 'term', 'section']
+
+[params]
+    env = 'production'
+    description = 'Yokesh Rana is a Senior Software Engineer specializing in Generative AI, Machine Learning, and Distributed Systems.'
+    author = 'Yokesh Rana'
+    
+    # Theme Appearance
+    defaultTheme = 'light'
+    disableThemeToggle = true
+    ShowCodeCopyButtons = true
+    ShowReadingTime = false
+    ShowBreadCrumbs = false
+    
+    # Social Links
+    [[params.socialIcons]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/yokeshrana/"
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/yokeshrana"
+    [[params.socialIcons]]
+        name = "medium"
+        url = "https://medium.com/@yokeshrana"
+
+# Navigation Menu
+[[menu.main]]
+    name = "Experience"
+    url = "#experience"
+    weight = 10
+[[menu.main]]
+    name = "Projects & Impact"
+    url = "#impact"
+    weight = 20
+[[menu.main]]
+    name = "Tech Stack"
+    url = "#skills"
+    weight = 30
+
+# Syntax Highlighting
+[markup.highlight]
+    noClasses = false
+    style = "monokai" # Great for dark mode
+
+# Enable HTML to render skill badges on the home page
+[markup.goldmark.renderer]
+    unsafe = true
